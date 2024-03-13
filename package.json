@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "@compai/font-courgette": "^0.0.3",
+    "@react-three/drei": "^9.101.0",
+    "@react-three/fiber": "^8.15.19",
+    "gsap": "^3.12.5",
+    "react": "^18.2.0",
+    "three": "^0.161.0",
+    "three-story-controls": "^1.0.6"
+  }
+}
